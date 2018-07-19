@@ -2,7 +2,7 @@
 title: Simulacrum Blog
 description: >
   Various topics, mostly focused on Rust development.
-baseurl: "/"
+baseurl: ""
 url: "https://Mark-Simulacrum.github.io"
 logo: "/images/logo.png"
 github_username: Mark-Simulacrum
