@@ -1,13 +1,13 @@
 # Site settings
-title: Simulacrum Blog
+title: Mark Rousskov's Blog
 description: >
   Various topics, mostly focused on Rust development.
 baseurl: ""
-url: "https://Mark-Simulacrum.github.io"
+url: "https://mark.rousskov.org"
 logo: "/images/logo.png"
 github_username: Mark-Simulacrum
 
 # Build settings
 highlighter: rouge
 
-root: "https://Mark-Simulacrum.github.io"
+root: "https://mark.rousskov.org"
