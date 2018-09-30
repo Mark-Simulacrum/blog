@@ -4,10 +4,10 @@ description: >
   Various topics, mostly focused on Rust development.
 baseurl: ""
 url: "https://mark.rousskov.org/blog"
-logo: "/images/logo.png"
+logo: "images/logo.png"
 github_username: Mark-Simulacrum
 
 # Build settings
 highlighter: rouge
 
-root: "https://mark.rousskov.org/blog"
+root: "https://mark.rousskov.org/blog/"
