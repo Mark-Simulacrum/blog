@@ -2,9 +2,9 @@
 title: Mark Rousskov's Blog
 description: >
   Various topics, mostly focused on Rust development.
-baseurl: ""
+baseurl: "/blog"
 url: "https://mark.rousskov.org/blog"
-logo: "images/logo.png"
+logo: "/blog/images/logo.png"
 github_username: Mark-Simulacrum
 
 # Build settings
